@@ -21,7 +21,7 @@ export function GET() {
   lines.push(`Total popes tracked: ${people.length}. Total succession links: ${rels.length}.`);
   lines.push("");
   lines.push("## Core pages");
-  lines.push(`- [Succession home](${base}/): interactive timeline and succession graph of all popes.`);
+  lines.push(`- [Succession home](${base}/): interactive timeline and local succession context for all popes.`);
   lines.push(`- [Start here](${base}/start-here): beginner guide to the timeline, evidence labels, and eras.`);
   lines.push(`- [Directory](${base}/directory): searchable index of every pope.`);
   lines.push(`- [Methodology](${base}/about): source policy and caveats for early traditional dates.`);

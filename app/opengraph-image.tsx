@@ -12,7 +12,7 @@ export default async function Image() {
       <OgCard
         eyebrow="Papal Succession"
         title="Every pope from Peter to Leo XIV"
-        subtitle="A sourced timeline, graph, and directory of the bishops of Rome."
+        subtitle="A sourced timeline, local context, and directory of the bishops of Rome."
         meta="popes-io.netlify.app · AD 30 – present"
       />
     ),

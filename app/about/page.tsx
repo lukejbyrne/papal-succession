@@ -61,7 +61,7 @@ export default function About() {
       <p className="mb-6">
         This first version is popes only. The data model still uses people and relationships, so it can
         be expanded later to include other bishops, sees, disputed claimants, councils, or ordination
-        links without throwing away the timeline and graph work.
+        links without throwing away the timeline and pope pages.
       </p>
 
       <h2 className="font-serif text-2xl mt-8 mb-3 text-ink">Source</h2>
