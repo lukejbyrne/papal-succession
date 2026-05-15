@@ -1,0 +1,3726 @@
+[
+  {
+    "from": "pope-peter",
+    "to": "pope-linus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Linus follows Peter as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-linus",
+    "to": "pope-anacletus-or-cletus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Anacletus or Cletus follows Linus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anacletus-or-cletus",
+    "to": "pope-clement",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Clement follows Anacletus or Cletus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement",
+    "to": "pope-evaristus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Evaristus follows Clement as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-evaristus",
+    "to": "pope-alexander-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Alexander I follows Evaristus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-i",
+    "to": "pope-sixtus-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Sixtus I follows Alexander I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sixtus-i",
+    "to": "pope-telesphorus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Telesphorus follows Sixtus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-telesphorus",
+    "to": "pope-hyginus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Hyginus follows Telesphorus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-hyginus",
+    "to": "pope-pius-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Pius I follows Hyginus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-i",
+    "to": "pope-anicetus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Anicetus follows Pius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anicetus",
+    "to": "pope-soterus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Soterus follows Anicetus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-soterus",
+    "to": "pope-eleutherius",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Eleutherius follows Soterus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eleutherius",
+    "to": "pope-victor-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Victor I follows Eleutherius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-victor-i",
+    "to": "pope-zephyrinus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Zephyrinus follows Victor I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-zephyrinus",
+    "to": "pope-callistus-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Callistus I follows Zephyrinus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-callistus-i",
+    "to": "pope-urban-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Urban I follows Callistus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-i",
+    "to": "pope-pontianus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Pontianus follows Urban I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pontianus",
+    "to": "pope-anterus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Anterus follows Pontianus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anterus",
+    "to": "pope-fabian",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Fabian follows Anterus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-fabian",
+    "to": "pope-cornelius",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Cornelius follows Fabian as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-cornelius",
+    "to": "pope-lucius-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Lucius I follows Cornelius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-lucius-i",
+    "to": "pope-stephen-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Stephen I follows Lucius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-i",
+    "to": "pope-sixtus-ii",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Sixtus II follows Stephen I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sixtus-ii",
+    "to": "pope-dionysius",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Dionysius follows Sixtus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-dionysius",
+    "to": "pope-felix-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Felix I follows Dionysius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-felix-i",
+    "to": "pope-eutichianus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Eutichianus follows Felix I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eutichianus",
+    "to": "pope-caius",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Caius follows Eutichianus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-caius",
+    "to": "pope-marcellinus",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Marcellinus follows Caius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-marcellinus",
+    "to": "pope-marcellus-i",
+    "type": "succeeded_in_see",
+    "strength": "tradition",
+    "notes": "Marcellus I follows Marcellinus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-marcellus-i",
+    "to": "pope-eusebius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Eusebius follows Marcellus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eusebius",
+    "to": "pope-miltiades-or-melchiades",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Miltiades or Melchiades follows Eusebius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-miltiades-or-melchiades",
+    "to": "pope-sylvester-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sylvester I follows Miltiades or Melchiades as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sylvester-i",
+    "to": "pope-mark",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Mark follows Sylvester I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-mark",
+    "to": "pope-julius-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Julius I follows Mark as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-julius-i",
+    "to": "pope-liberius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Liberius follows Julius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-liberius",
+    "to": "pope-damasus-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Damasus I follows Liberius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-damasus-i",
+    "to": "pope-siricius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Siricius follows Damasus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-siricius",
+    "to": "pope-anastasius-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Anastasius I follows Siricius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anastasius-i",
+    "to": "pope-innocent-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent I follows Anastasius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-i",
+    "to": "pope-zosimus",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Zosimus follows Innocent I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-zosimus",
+    "to": "pope-boniface-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface I follows Zosimus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-i",
+    "to": "pope-celestine-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Celestine I follows Boniface I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-celestine-i",
+    "to": "pope-sixtus-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sixtus III follows Celestine I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sixtus-iii",
+    "to": "pope-leo-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo I follows Sixtus III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-i",
+    "to": "pope-hilarius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Hilarius follows Leo I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-hilarius",
+    "to": "pope-simplicius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Simplicius follows Hilarius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-simplicius",
+    "to": "pope-felix-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Felix III follows Simplicius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-felix-iii",
+    "to": "pope-gelasius-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gelasius I follows Felix III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gelasius-i",
+    "to": "pope-anastasius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Anastasius II follows Gelasius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anastasius-ii",
+    "to": "pope-symmachus",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Symmachus follows Anastasius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-symmachus",
+    "to": "pope-hormisdas",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Hormisdas follows Symmachus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-hormisdas",
+    "to": "pope-john-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John I follows Hormisdas as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-i",
+    "to": "pope-felix-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Felix IV follows John I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-felix-iv",
+    "to": "pope-boniface-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface II follows Felix IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-ii",
+    "to": "pope-john-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John II follows Boniface II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-ii",
+    "to": "pope-agapetus-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Agapetus I follows John II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-agapetus-i",
+    "to": "pope-silverius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Silverius follows Agapetus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-silverius",
+    "to": "pope-vigilius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Vigilius follows Silverius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-vigilius",
+    "to": "pope-pelagius-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pelagius I follows Vigilius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pelagius-i",
+    "to": "pope-john-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John III follows Pelagius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-iii",
+    "to": "pope-benedict-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict I follows John III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-i",
+    "to": "pope-pelagius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pelagius II follows Benedict I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pelagius-ii",
+    "to": "pope-gregory-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory I follows Pelagius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-i",
+    "to": "pope-sabinian",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sabinian follows Gregory I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sabinian",
+    "to": "pope-boniface-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface III follows Sabinian as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-iii",
+    "to": "pope-boniface-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface IV follows Boniface III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-iv",
+    "to": "pope-deusdedit-or-adeodatus-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Deusdedit or Adeodatus I follows Boniface IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-deusdedit-or-adeodatus-i",
+    "to": "pope-boniface-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface V follows Deusdedit or Adeodatus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-v",
+    "to": "pope-honorius-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Honorius I follows Boniface V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-honorius-i",
+    "to": "pope-severinus",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Severinus follows Honorius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-severinus",
+    "to": "pope-john-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John IV follows Severinus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-iv",
+    "to": "pope-theodore-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Theodore I follows John IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-theodore-i",
+    "to": "pope-martin-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Martin I follows Theodore I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-martin-i",
+    "to": "pope-eugene-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Eugene I follows Martin I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eugene-i",
+    "to": "pope-vitalian",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Vitalian follows Eugene I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-vitalian",
+    "to": "pope-adeodatus-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adeodatus II follows Vitalian as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adeodatus-ii",
+    "to": "pope-donus",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Donus follows Adeodatus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-donus",
+    "to": "pope-agatho",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Agatho follows Donus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-agatho",
+    "to": "pope-leo-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo II follows Agatho as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-ii",
+    "to": "pope-benedict-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict II follows Leo II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-ii",
+    "to": "pope-john-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John V follows Benedict II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-v",
+    "to": "pope-conon",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Conon follows John V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-conon",
+    "to": "pope-sergius-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sergius I follows Conon as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sergius-i",
+    "to": "pope-john-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John VI follows Sergius I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-vi",
+    "to": "pope-john-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John VII follows John VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-vii",
+    "to": "pope-sisinnius",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sisinnius follows John VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sisinnius",
+    "to": "pope-constantine",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Constantine follows Sisinnius as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-constantine",
+    "to": "pope-gregory-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory II follows Constantine as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-ii",
+    "to": "pope-gregory-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory III follows Gregory II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-iii",
+    "to": "pope-zachary",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Zachary follows Gregory III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-zachary",
+    "to": "pope-stephen-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen II follows Zachary as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-ii",
+    "to": "pope-paul-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paul I follows Stephen II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paul-i",
+    "to": "pope-stephen-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen III follows Paul I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-iii",
+    "to": "pope-adrian-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adrian I follows Stephen III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adrian-i",
+    "to": "pope-leo-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo III follows Adrian I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-iii",
+    "to": "pope-stephen-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen IV follows Leo III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-iv",
+    "to": "pope-paschal-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paschal I follows Stephen IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paschal-i",
+    "to": "pope-eugene-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Eugene II follows Paschal I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eugene-ii",
+    "to": "pope-valentine",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Valentine follows Eugene II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-valentine",
+    "to": "pope-gregory-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory IV follows Valentine as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-iv",
+    "to": "pope-sergius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sergius II follows Gregory IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sergius-ii",
+    "to": "pope-leo-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo IV follows Sergius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-iv",
+    "to": "pope-benedict-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict III follows Leo IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-iii",
+    "to": "pope-nicholas-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Nicholas I follows Benedict III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-nicholas-i",
+    "to": "pope-adrian-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adrian II follows Nicholas I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adrian-ii",
+    "to": "pope-john-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John VIII follows Adrian II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-viii",
+    "to": "pope-marinus-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Marinus I follows John VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-marinus-i",
+    "to": "pope-adrian-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adrian III follows Marinus I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adrian-iii",
+    "to": "pope-stephen-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen V follows Adrian III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-v",
+    "to": "pope-formosus",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Formosus follows Stephen V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-formosus",
+    "to": "pope-boniface-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface VI follows Formosus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-vi",
+    "to": "pope-stephen-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen VI follows Boniface VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-vi",
+    "to": "pope-romanus",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Romanus follows Stephen VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-romanus",
+    "to": "pope-theodore-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Theodore II follows Romanus as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-theodore-ii",
+    "to": "pope-john-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John IX follows Theodore II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-ix",
+    "to": "pope-benedict-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict IV follows John IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-iv",
+    "to": "pope-leo-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo V follows Benedict IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-v",
+    "to": "pope-sergius-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sergius III follows Leo V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sergius-iii",
+    "to": "pope-anastasius-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Anastasius III follows Sergius III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anastasius-iii",
+    "to": "pope-lando",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Lando follows Anastasius III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-lando",
+    "to": "pope-john-x",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John X follows Lando as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-x",
+    "to": "pope-leo-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo VI follows John X as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-vi",
+    "to": "pope-stephen-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen VII follows Leo VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-vii",
+    "to": "pope-john-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XI follows Stephen VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xi",
+    "to": "pope-leo-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo VII follows John XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-vii",
+    "to": "pope-stephen-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen VIII follows Leo VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-viii",
+    "to": "pope-marinus-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Marinus II follows Stephen VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-marinus-ii",
+    "to": "pope-agapetus-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Agapetus II follows Marinus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-agapetus-ii",
+    "to": "pope-john-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XII follows Agapetus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xii",
+    "to": "pope-leo-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo VIII follows John XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-viii",
+    "to": "pope-benedict-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict V follows Leo VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-v",
+    "to": "pope-john-xiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XIII follows Benedict V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xiii",
+    "to": "pope-benedict-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict VI follows John XIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-vi",
+    "to": "pope-benedict-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict VII follows Benedict VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-vii",
+    "to": "pope-john-xiv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XIV follows Benedict VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xiv",
+    "to": "pope-john-xv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XV follows John XIV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xv",
+    "to": "pope-gregory-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory V follows John XV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-v",
+    "to": "pope-sylvester-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sylvester II follows Gregory V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sylvester-ii",
+    "to": "pope-john-xvii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XVII follows Sylvester II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xvii",
+    "to": "pope-john-xviii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XVIII follows John XVII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xviii",
+    "to": "pope-sergius-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sergius IV follows John XVIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sergius-iv",
+    "to": "pope-benedict-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict VIII follows Sergius IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-viii",
+    "to": "pope-john-xix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XIX follows Benedict VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xix",
+    "to": "pope-benedict-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict IX follows John XIX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-ix",
+    "to": "pope-sylvester-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sylvester III follows Benedict IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sylvester-iii",
+    "to": "pope-benedict-ix-147",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict IX follows Sylvester III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-ix-147",
+    "to": "pope-gregory-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory VI follows Benedict IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-vi",
+    "to": "pope-clement-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement II follows Gregory VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-ii",
+    "to": "pope-benedict-ix-150",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict IX follows Clement II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-ix-150",
+    "to": "pope-damasus-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Damasus II follows Benedict IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-damasus-ii",
+    "to": "pope-leo-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo IX follows Damasus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-ix",
+    "to": "pope-victor-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Victor II follows Leo IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-victor-ii",
+    "to": "pope-stephen-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Stephen IX follows Victor II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-stephen-ix",
+    "to": "pope-nicholas-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Nicholas II follows Stephen IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-nicholas-ii",
+    "to": "pope-alexander-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Alexander II follows Nicholas II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-ii",
+    "to": "pope-gregory-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory VII follows Alexander II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-vii",
+    "to": "pope-victor-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Victor III follows Gregory VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-victor-iii",
+    "to": "pope-urban-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban II follows Victor III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-ii",
+    "to": "pope-paschal-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paschal II follows Urban II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paschal-ii",
+    "to": "pope-gelasius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gelasius II follows Paschal II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gelasius-ii",
+    "to": "pope-callixtus-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Callixtus II follows Gelasius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-callixtus-ii",
+    "to": "pope-honorius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Honorius II follows Callixtus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-honorius-ii",
+    "to": "pope-innocent-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent II follows Honorius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-ii",
+    "to": "pope-celestine-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Celestine II follows Innocent II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-celestine-ii",
+    "to": "pope-lucius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Lucius II follows Celestine II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-lucius-ii",
+    "to": "pope-eugene-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Eugene III follows Lucius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eugene-iii",
+    "to": "pope-anastasius-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Anastasius IV follows Eugene III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-anastasius-iv",
+    "to": "pope-adrian-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adrian IV follows Anastasius IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adrian-iv",
+    "to": "pope-alexander-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Alexander III follows Adrian IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-iii",
+    "to": "pope-lucius-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Lucius III follows Alexander III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-lucius-iii",
+    "to": "pope-urban-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban III follows Lucius III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-iii",
+    "to": "pope-gregory-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory VIII follows Urban III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-viii",
+    "to": "pope-clement-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement III follows Gregory VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-iii",
+    "to": "pope-celestine-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Celestine III follows Clement III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-celestine-iii",
+    "to": "pope-innocent-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent III follows Celestine III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-iii",
+    "to": "pope-honorius-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Honorius III follows Innocent III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-honorius-iii",
+    "to": "pope-gregory-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory IX follows Honorius III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-ix",
+    "to": "pope-celestine-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Celestine IV follows Gregory IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-celestine-iv",
+    "to": "pope-innocent-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent IV follows Celestine IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-iv",
+    "to": "pope-alexander-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Alexander IV follows Innocent IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-iv",
+    "to": "pope-urban-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban IV follows Alexander IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-iv",
+    "to": "pope-clement-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement IV follows Urban IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-iv",
+    "to": "pope-gregory-x",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory X follows Clement IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-x",
+    "to": "pope-innocent-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent V follows Gregory X as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-v",
+    "to": "pope-adrian-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adrian V follows Innocent V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adrian-v",
+    "to": "pope-john-xxi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XXI follows Adrian V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xxi",
+    "to": "pope-nicholas-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Nicholas III follows John XXI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-nicholas-iii",
+    "to": "pope-martin-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Martin IV follows Nicholas III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-martin-iv",
+    "to": "pope-honorius-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Honorius IV follows Martin IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-honorius-iv",
+    "to": "pope-nicholas-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Nicholas IV follows Honorius IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-nicholas-iv",
+    "to": "pope-celestine-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Celestine V follows Nicholas IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-celestine-v",
+    "to": "pope-boniface-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface VIII follows Celestine V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-viii",
+    "to": "pope-benedict-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict XI follows Boniface VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-xi",
+    "to": "pope-clement-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement V follows Benedict XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-v",
+    "to": "pope-john-xxii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XXII follows Clement V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xxii",
+    "to": "pope-benedict-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict XII follows John XXII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-xii",
+    "to": "pope-clement-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement VI follows Benedict XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-vi",
+    "to": "pope-innocent-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent VI follows Clement VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-vi",
+    "to": "pope-urban-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban V follows Innocent VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-v",
+    "to": "pope-gregory-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory XI follows Urban V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-xi",
+    "to": "pope-urban-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban VI follows Gregory XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-vi",
+    "to": "pope-boniface-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Boniface IX follows Urban VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-boniface-ix",
+    "to": "pope-innocent-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent VII follows Boniface IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-vii",
+    "to": "pope-gregory-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory XII follows Innocent VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-xii",
+    "to": "pope-martin-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Martin V follows Gregory XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-martin-v",
+    "to": "pope-eugene-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Eugene IV follows Martin V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-eugene-iv",
+    "to": "pope-nicholas-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Nicholas V follows Eugene IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-nicholas-v",
+    "to": "pope-callixtus-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Callixtus III follows Nicholas V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-callixtus-iii",
+    "to": "pope-pius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius II follows Callixtus III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-ii",
+    "to": "pope-paul-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paul II follows Pius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paul-ii",
+    "to": "pope-sixtus-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sixtus IV follows Paul II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sixtus-iv",
+    "to": "pope-innocent-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent VIII follows Sixtus IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-viii",
+    "to": "pope-alexander-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Alexander VI follows Innocent VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-vi",
+    "to": "pope-pius-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius III follows Alexander VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-iii",
+    "to": "pope-julius-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Julius II follows Pius III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-julius-ii",
+    "to": "pope-leo-x",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo X follows Julius II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-x",
+    "to": "pope-adrian-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Adrian VI follows Leo X as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-adrian-vi",
+    "to": "pope-clement-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement VII follows Adrian VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-vii",
+    "to": "pope-paul-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paul III follows Clement VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paul-iii",
+    "to": "pope-julius-iii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Julius III follows Paul III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-julius-iii",
+    "to": "pope-marcellus-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Marcellus II follows Julius III as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-marcellus-ii",
+    "to": "pope-paul-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paul IV follows Marcellus II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paul-iv",
+    "to": "pope-pius-iv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius IV follows Paul IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-iv",
+    "to": "pope-pius-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius V follows Pius IV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-v",
+    "to": "pope-gregory-xiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory XIII follows Pius V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-xiii",
+    "to": "pope-sixtus-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Sixtus V follows Gregory XIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-sixtus-v",
+    "to": "pope-urban-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban VII follows Sixtus V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-vii",
+    "to": "pope-gregory-xiv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory XIV follows Urban VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-xiv",
+    "to": "pope-innocent-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent IX follows Gregory XIV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-ix",
+    "to": "pope-clement-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement VIII follows Innocent IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-viii",
+    "to": "pope-leo-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo XI follows Clement VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-xi",
+    "to": "pope-paul-v",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paul V follows Leo XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paul-v",
+    "to": "pope-gregory-xv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory XV follows Paul V as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-xv",
+    "to": "pope-urban-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Urban VIII follows Gregory XV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-urban-viii",
+    "to": "pope-innocent-x",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent X follows Urban VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-x",
+    "to": "pope-alexander-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Alexander VII follows Innocent X as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-vii",
+    "to": "pope-clement-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement IX follows Alexander VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-ix",
+    "to": "pope-clement-x",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement X follows Clement IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-x",
+    "to": "pope-innocent-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent XI follows Clement X as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-xi",
+    "to": "pope-alexander-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Alexander VIII follows Innocent XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-alexander-viii",
+    "to": "pope-innocent-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent XII follows Alexander VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-xii",
+    "to": "pope-clement-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement XI follows Innocent XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-xi",
+    "to": "pope-innocent-xiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Innocent XIII follows Clement XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-innocent-xiii",
+    "to": "pope-benedict-xiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict XIII follows Innocent XIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-xiii",
+    "to": "pope-clement-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement XII follows Benedict XIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-xii",
+    "to": "pope-benedict-xiv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict XIV follows Clement XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-xiv",
+    "to": "pope-clement-xiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement XIII follows Benedict XIV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-xiii",
+    "to": "pope-clement-xiv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Clement XIV follows Clement XIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-clement-xiv",
+    "to": "pope-pius-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius VI follows Clement XIV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-vi",
+    "to": "pope-pius-vii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius VII follows Pius VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-vii",
+    "to": "pope-leo-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo XII follows Pius VII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-xii",
+    "to": "pope-pius-viii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius VIII follows Leo XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-viii",
+    "to": "pope-gregory-xvi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Gregory XVI follows Pius VIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-gregory-xvi",
+    "to": "pope-pius-ix",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius IX follows Gregory XVI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-ix",
+    "to": "pope-leo-xiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo XIII follows Pius IX as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-leo-xiii",
+    "to": "pope-pius-x",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius X follows Leo XIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-x",
+    "to": "pope-benedict-xv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict XV follows Pius X as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-xv",
+    "to": "pope-pius-xi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius XI follows Benedict XV as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-xi",
+    "to": "pope-pius-xii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Pius XII follows Pius XI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-pius-xii",
+    "to": "pope-john-xxiii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John XXIII follows Pius XII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-xxiii",
+    "to": "pope-paul-vi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Paul VI follows John XXIII as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-paul-vi",
+    "to": "pope-john-paul-i",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John Paul I follows Paul VI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-paul-i",
+    "to": "pope-john-paul-ii",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "John Paul II follows John Paul I as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-john-paul-ii",
+    "to": "pope-benedict-xvi",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Benedict XVI follows John Paul II as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-benedict-xvi",
+    "to": "pope-francis",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Francis follows Benedict XVI as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "from": "pope-francis",
+    "to": "pope-leo-xiv",
+    "type": "succeeded_in_see",
+    "strength": "documented",
+    "notes": "Leo XIV follows Francis as Bishop of Rome in the Holy See's sequential list of Supreme Pontiffs.",
+    "citations": [
+      {
+        "source": "The Holy See, Pontiffs",
+        "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+        "kind": "reference"
+      }
+    ]
+  }
+]

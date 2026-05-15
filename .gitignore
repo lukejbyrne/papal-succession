@@ -1,0 +1,10 @@
+node_modules
+.next
+.netlify
+.claude/
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+out/
+tmp/
