@@ -63,6 +63,8 @@ The current scope is popes only. The main source is:
 
 `https://www.vatican.va/content/vatican/en/holy-father.html`
 
+The live Netlify URL is `https://popes-io.netlify.app`. Set `NEXT_PUBLIC_SITE_URL` to a custom domain when one is configured.
+
 The data model still uses generic people and relationships, so future work can add other bishops, sees, antipopes, councils, ordination links, or disputed succession claims without replacing the timeline.
 
 ## Current Caveats

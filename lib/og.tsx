@@ -119,7 +119,7 @@ export function OgCard({ eyebrow, title, subtitle, meta, badge }: OgCardProps): 
           fontSize: 22,
         }}
       >
-        <div style={{ display: "flex", color: INK, fontWeight: 600 }}>popes.io</div>
+        <div style={{ display: "flex", color: INK, fontWeight: 600 }}>popes-io.netlify.app</div>
         <div style={{ display: "flex" }}>{meta ?? "Sourced succession · AD 30 – present"}</div>
       </div>
     </div>

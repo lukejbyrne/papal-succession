@@ -13,7 +13,7 @@ export default async function Image() {
         eyebrow="Papal Succession"
         title="Every pope from Peter to Leo XIV"
         subtitle="A sourced timeline, graph, and directory of the bishops of Rome."
-        meta="popes.io · AD 30 – present"
+        meta="popes-io.netlify.app · AD 30 – present"
       />
     ),
     { ...size }

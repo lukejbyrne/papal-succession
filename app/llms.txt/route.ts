@@ -4,7 +4,7 @@ import { pontificateRange } from "@/lib/dates";
 export const dynamic = "force-static";
 
 export function GET() {
-  const base = process.env.NEXT_PUBLIC_SITE_URL ?? "https://popes.io";
+  const base = process.env.NEXT_PUBLIC_SITE_URL ?? "https://popes-io.netlify.app";
   const people = getPeople();
   const rels = getRelationships();
   const major = people
