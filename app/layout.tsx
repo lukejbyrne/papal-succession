@@ -74,7 +74,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <img src="/icon.svg" alt="" width={24} height={24} className="shrink-0" />
                 Papal Succession
               </Link>
-              <div className="ml-auto flex items-center gap-4 text-sm">
+              <div className="ml-auto flex items-center gap-3 sm:gap-4 text-sm">
                 <Link href="/start-here" className="hover:text-accent">
                   Start
                 </Link>
@@ -83,6 +83,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 </Link>
                 <Link href="/about" className="hover:text-accent">
                   Method
+                </Link>
+                <Link href="/support" className="hidden sm:inline hover:text-accent">
+                  Support
                 </Link>
               </div>
               <span className="hidden sm:inline text-xs text-ink/50">AD 30 — present</span>

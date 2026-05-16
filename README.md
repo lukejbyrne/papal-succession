@@ -52,6 +52,8 @@ PAPAL_SUCCESSION_SMOKE_OUT=/tmp/pope-smoke pnpm smoke
 - `/directory` - searchable pope directory
 - `/popes/[slug]` - individual pope pages
 - `/start-here` - beginner guide to the timeline and evidence labels
+- `/antipopes` - disputed-claimant layer kept beside the official line
+- `/support` - public support and research funding options
 - `/about` - methodology and source notes
 - `/api/people.json` - pope records
 - `/api/relationships.json` - immediate succession links
@@ -70,4 +72,4 @@ The data model still uses generic people and relationships, so future work can a
 ## Current Caveats
 
 - `pnpm data` requires network access to the Vatican source page. Avoid running it from restricted sandboxes unless the source fetch is expected to work.
-- Antipopes and broader episcopal succession are intentionally not first-class records yet. The homepage calls out the places where the straight line needs historical caution.
+- Antipopes and broader episcopal succession are intentionally not first-class records yet. The homepage and `/antipopes` explain where the straight line needs historical caution without mixing disputed claimants into the canonical pope sequence.

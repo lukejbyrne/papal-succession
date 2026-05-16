@@ -15,7 +15,7 @@ const CRISES = [
     years: "1378-1417",
     ids: ["pope-urban-vi", "pope-boniface-ix", "pope-innocent-vii", "pope-gregory-xii", "pope-martin-v"],
     body:
-      "The official list keeps the Roman line, while rival obediences claimed papal authority from Avignon and Pisa. Competitor lists often surface antipopes here; this site flags the official sequence first and leaves room for disputed claimants later.",
+      "The official list keeps the Roman line, while rival obediences claimed papal authority from Avignon and Pisa. This site keeps the official sequence first and leaves disputed claimants in a clearly labeled companion layer.",
   },
   {
     title: "Numbering oddities",
@@ -30,7 +30,7 @@ export default function SuccessionCrises({ people }: { people: Person[] }) {
   const peopleById = new Map(people.map((p) => [p.id, p]));
 
   return (
-    <section className="max-w-5xl mx-auto px-4 py-14 border-t border-ink/10">
+    <section id="crises" className="max-w-5xl mx-auto px-4 py-14 border-t border-ink/10 scroll-mt-24">
       <div className="max-w-3xl mb-8">
         <p className="text-[11px] uppercase tracking-[0.22em] text-ink/45 mb-3">Where the line gets messy</p>
         <h2 className="font-serif text-3xl text-ink mb-3">Succession crises and numbering traps</h2>

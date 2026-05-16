@@ -24,7 +24,9 @@ export function GET() {
   lines.push(`- [Succession home](${base}/): interactive timeline and local succession context for all popes.`);
   lines.push(`- [Start here](${base}/start-here): beginner guide to the timeline, evidence labels, and eras.`);
   lines.push(`- [Directory](${base}/directory): searchable index of every pope.`);
+  lines.push(`- [Antipopes](${base}/antipopes): plan for disputed claimants as a separate layer.`);
   lines.push(`- [Methodology](${base}/about): source policy and caveats for early traditional dates.`);
+  lines.push(`- [Support](${base}/support): support options for richer notes and future research layers.`);
   lines.push("");
   lines.push("## Data");
   lines.push(`- [Popes JSON](${base}/api/people.json): full structured data for all ${people.length} popes.`);

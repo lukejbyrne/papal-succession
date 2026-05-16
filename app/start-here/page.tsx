@@ -75,7 +75,7 @@ export default function StartHere() {
           <li className="border-t border-ink/15 pt-4">
             <div className="text-[11px] uppercase tracking-wider text-ink/45 mb-2">2</div>
             <h3 className="font-serif text-2xl text-ink">Click a pope</h3>
-            <p className="text-sm text-ink/65 mt-2">The line highlights predecessors back to Peter and successors forward.</p>
+            <p className="text-sm text-ink/65 mt-2">The timeline highlights nearby predecessors and successors without pretending every click needs a dramatic new branch.</p>
           </li>
           <li className="border-t border-ink/15 pt-4">
             <div className="text-[11px] uppercase tracking-wider text-ink/45 mb-2">3</div>

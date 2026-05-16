@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { getPeople, getPerson, getRelationshipsFor } from "@/lib/data";
 import { canonicalUrl, SITE_NAME } from "@/lib/seo";
 import { pontificateRange } from "@/lib/dates";
+import { getPopeInsight } from "@/lib/pope-insights";
 import type { Person, Relationship } from "@/lib/schema";
 
 export function generateStaticParams() {
@@ -98,6 +99,7 @@ export default async function PopePage({
   const predecessorRels = rels.filter((r) => r.to === pope.id);
   const successorRels = rels.filter((r) => r.from === pope.id);
   const range = pontificateRange(pope);
+  const insight = getPopeInsight(pope.id);
 
   const ldPerson = {
     "@context": "https://schema.org",
@@ -186,6 +188,29 @@ export default async function PopePage({
 
       <div className="grid lg:grid-cols-[1fr_300px] gap-10">
         <div className="space-y-8">
+          {insight ? (
+            <section className="border-t border-ink/10 pt-6">
+              <p className="text-[11px] uppercase tracking-[0.2em] text-ink/45 mb-3">
+                Why this pontificate matters
+              </p>
+              <p className="text-[15px] leading-relaxed text-ink/80 max-w-3xl">{insight.summary}</p>
+              <div className="grid sm:grid-cols-2 gap-3 mt-4">
+                {insight.watch.map((item) => (
+                  <div key={item} className="rounded-md border border-ink/10 bg-ink/[0.025] p-3 text-sm text-ink/65">
+                    {item}
+                  </div>
+                ))}
+              </div>
+              {insight.next ? (
+                <Link
+                  href={insight.next.href}
+                  className="inline-flex mt-4 px-3 py-2 border border-ink/25 rounded text-sm hover:border-accent hover:text-accent"
+                >
+                  {insight.next.label}
+                </Link>
+              ) : null}
+            </section>
+          ) : null}
           <RelationList
             title="Predecessor"
             relationships={predecessorRels}

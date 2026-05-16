@@ -2,6 +2,8 @@ import { getPeople, getRelationships } from "@/lib/data";
 import Link from "next/link";
 import HomeView from "@/components/HomeView";
 import HeroChain from "@/components/HeroChain";
+import FutureLayers from "@/components/FutureLayers";
+import SupportOptions from "@/components/SupportOptions";
 import { canonicalUrl, SITE_DESC, SITE_NAME } from "@/lib/seo";
 import type { Metadata } from "next";
 
@@ -38,7 +40,7 @@ export default function Home() {
     <>
       <HeroChain />
       <section className="max-w-5xl mx-auto px-4 py-10 border-t border-ink/10">
-        <div className="grid md:grid-cols-[1fr_1fr] gap-4">
+        <div className="grid md:grid-cols-2 gap-4">
           <Link
             href="/start-here"
             className="group rounded-md border border-ink/10 bg-ink/[0.025] p-5 hover:border-accent transition-colors"
@@ -69,9 +71,41 @@ export default function Home() {
               pontificate.
             </p>
           </Link>
+          <Link
+            href="/antipopes"
+            className="group rounded-md border border-ink/10 bg-ink/[0.025] p-5 hover:border-accent transition-colors"
+          >
+            <p className="text-[11px] uppercase tracking-[0.2em] text-ink/45 mb-3">
+              Disputed claimants
+            </p>
+            <h2 className="font-serif text-3xl text-ink group-hover:text-accent mb-2">
+              Understand why antipopes need a separate layer
+            </h2>
+            <p className="text-sm text-ink/65">
+              The official line stays clear, while rival obediences and contested claimants are
+              handled honestly beside it.
+            </p>
+          </Link>
+          <Link
+            href="/support"
+            className="group rounded-md border border-ink/10 bg-ink/[0.025] p-5 hover:border-accent transition-colors"
+          >
+            <p className="text-[11px] uppercase tracking-[0.2em] text-ink/45 mb-3">
+              Support
+            </p>
+            <h2 className="font-serif text-3xl text-ink group-hover:text-accent mb-2">
+              Fund richer notes and future research layers
+            </h2>
+            <p className="text-sm text-ink/65">
+              Keep the site free while pricing the work needed for disputed claimants, teaching
+              materials, and major pope essays.
+            </p>
+          </Link>
         </div>
       </section>
       <HomeView people={people} relationships={relationships} />
+      <FutureLayers />
+      <SupportOptions />
     </>
   );
 }

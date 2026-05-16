@@ -78,6 +78,8 @@ await shot("/popes/pope-leo-i", "07-leo-i");
 await shot("/popes/pope-gregory-i", "08-gregory-i");
 await shot("/popes/pope-john-paul-ii", "09-john-paul-ii");
 await shot("/popes/pope-leo-xiv", "10-leo-xiv");
+await shot("/antipopes", "11-antipopes");
+await shot("/support", "12-support");
 
 await browser.close();
 
